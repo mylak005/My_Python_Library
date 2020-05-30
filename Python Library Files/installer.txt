@@ -1,0 +1,3 @@
+Library needed:
+  pynput;
+  pycairo;
